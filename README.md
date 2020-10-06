@@ -1,3 +1,4 @@
-# data
+# Welcome to Data
 
-halo ini data web data penambahan data buat referensi
+It is Basis Data from Query.
+Make from HTML, CSS, JS
